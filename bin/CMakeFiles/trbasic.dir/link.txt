@@ -1,0 +1,1 @@
+/usr/bin/c++ -lpthread CMakeFiles/trbasic.dir/ThreadsBasico.cpp.o -o trbasic 
